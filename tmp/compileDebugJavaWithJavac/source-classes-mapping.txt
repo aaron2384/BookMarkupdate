@@ -1,0 +1,41 @@
+com/example/completemessaging/Fragments/UsersFragment.java
+ com.example.completemessaging.Fragments.UsersFragment
+ com.example.completemessaging.Fragments.UsersFragment$1
+com/example/completemessaging/BuildConfig.java
+ com.example.completemessaging.BuildConfig
+com/example/completemessaging/MessageActivity.java
+ com.example.completemessaging.MessageActivity
+ com.example.completemessaging.MessageActivity$1
+ com.example.completemessaging.MessageActivity$2
+ com.example.completemessaging.MessageActivity$3
+ com.example.completemessaging.MessageActivity$4
+com/example/completemessaging/Adapter/MessageAdapter.java
+ com.example.completemessaging.Adapter.MessageAdapter
+ com.example.completemessaging.Adapter.MessageAdapter$ViewHolder
+com/example/completemessaging/Model/Chat.java
+ com.example.completemessaging.Model.Chat
+com/example/completemessaging/Fragments/ChatsFragment.java
+ com.example.completemessaging.Fragments.ChatsFragment
+com/example/completemessaging/Model/User.java
+ com.example.completemessaging.Model.User
+com/example/completemessaging/Adapter/UserAdapter.java
+ com.example.completemessaging.Adapter.UserAdapter
+ com.example.completemessaging.Adapter.UserAdapter$1
+ com.example.completemessaging.Adapter.UserAdapter$ViewHolder
+com/example/completemessaging/MainActivity.java
+ com.example.completemessaging.MainActivity
+ com.example.completemessaging.MainActivity$1
+ com.example.completemessaging.MainActivity$ViewPagerAdapter
+com/example/completemessaging/StartActivity.java
+ com.example.completemessaging.StartActivity
+ com.example.completemessaging.StartActivity$1
+ com.example.completemessaging.StartActivity$2
+com/example/completemessaging/LoginActivity.java
+ com.example.completemessaging.LoginActivity
+ com.example.completemessaging.LoginActivity$1
+ com.example.completemessaging.LoginActivity$1$1
+com/example/completemessaging/RegisterActivity.java
+ com.example.completemessaging.RegisterActivity
+ com.example.completemessaging.RegisterActivity$1
+ com.example.completemessaging.RegisterActivity$2
+ com.example.completemessaging.RegisterActivity$2$1
